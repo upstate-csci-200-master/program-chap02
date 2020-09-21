@@ -7,13 +7,13 @@ public class Fraction
     // declare a scanner object for input
 		Scanner scan = new 
 
-    // prompt for numerator and read in
+    // prompt for numerator and read in - use print instead of println so the use will input on the same line as the prompt
     
-    // prompt for denomator and read in
+    // prompt for denomator and read in - use print instead of println so the use will input on the same line as the prompt
     
-    // computer the answer and store in a variable of type double
+    // compute the answer and store in a variable of type double
     
-		// ouutput the answer
+    // ouutput the answer
     
   }
 }
