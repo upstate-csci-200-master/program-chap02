@@ -19,10 +19,3 @@ Use starting code file Fraction.java which is located in this repository. Submit
 
 Here are instructions on how to submit to CodePost - https://help.codepost.io/en/articles/3851633-how-can-i-submit-work-to-codepost
 
-
-```
-After you have submitted your code to CodePost, 
-COMPLETE THIS FORM TO RECEIVE FULL CREDIT: 
-```
-https://form.jotform.com/200302477347046
-
